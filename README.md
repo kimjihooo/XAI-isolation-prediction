@@ -6,7 +6,7 @@
 
 ## 2. 사용 모델 및 알고리즘
 ### (1) 회귀 모델
-Linear, SVR, Catboost, Random Forest, Deep Neural Network 모형으로 총 5가지 모형을 사용해 성능 측정
+최종적으로 총 5가지 모형 Linear, SVR, Catboost, Random Forest, Deep Neural Network 사용해 성능 비교
 
 ### (2) XAI
 - Feature Importance
